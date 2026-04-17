@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarvesh%20Namra&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Craftsman%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarvesh%20Namra&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20MERN%20STACK&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -114,6 +114,10 @@ const sarvesh = {
       <h3 align="center">🧠 Code Buddy</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+        &nbsp;
+        <a href="https://github.com/SarveshNamra/Cohort_webDev_ChaiCode/tree/main/13_leetCode">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
         <br/><br/>
         <p>
           A <strong>full-stack competitive coding platform</strong> built from scratch. Think LeetCode, but yours.
@@ -137,6 +141,10 @@ const sarvesh = {
       <h3 align="center">🩺 NeuroGenAI</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
+        &nbsp;
+        <a href="https://github.com/SarveshNamra/TumorDection">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
         <br/><br/>
         <p>
           An <strong>API-driven medical analysis platform</strong> for brain tumor detection and patient scan management.
@@ -200,15 +208,6 @@ const sarvesh = {
 
 ---
 
-<!-- Quote -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 <!-- Connect Section -->
 <div align="center">
   <h2>
@@ -221,8 +220,7 @@ const sarvesh = {
   </p>
 
   <a href="https://www.linkedin.com/in/sarvesh-namra-70443824a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=
-      for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:sarveshcnamra@gmail.com">
