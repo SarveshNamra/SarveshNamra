@@ -30,8 +30,7 @@
 <!-- About Me Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
-    &nbsp; About Me
+    &nbsp; # About Me
   </h2>
 </div>
 
@@ -175,15 +174,6 @@ const sarvesh = {
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
     &nbsp; GitHub Stats
   </h2>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarveshnamra&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sarveshnamra&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshnamra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" />
 </div>
 
 <!-- Activity Graph -->
